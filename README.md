@@ -1,4 +1,4 @@
-ROCK PAPER SCISSORS
+# Rock Paper Scissors
 
 You may have played rock paper scissors before. Maybe you’ve used it to decide who pays for dinner or gets the first player choice for a team.
 If you’re unfamiliar, rock paper scissors is a hand game for two or more players. 
